@@ -9,8 +9,4 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ### 📊 GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rooster123872&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-</p>
-
 ![Troféus](https://github-profile-trophy.vercel.app/?username=Rooster123872&theme=tokyonight)
