@@ -7,10 +7,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
 ### 📊 GitHub Stats:
 
-![Stats de Joao](https://github-readme-stats.vercel.app/api?username=Rooster123872&show_icons=true&theme=tokyonight)
+![Stats de Rooster](https://github-readme-stats.vercel.app/api?username=Rooster123872&show_icons=true&theme=tokyonight)
 
 ### 🏆 GitHub Trophies:
 
