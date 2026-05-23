@@ -10,7 +10,7 @@
 
 ### 💻 OS:
 
-![Kali Linux](https://img.shields.io/badge/KALI-000000?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/KALI-000000?style=for-the-badge&logo=kali-linux&logoColor=00F0FF)
 
 ### 📊 GitHub Stats:
 
