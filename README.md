@@ -1,16 +1,28 @@
-# 👋 About Me:
+# 📑 About Me:
 
-🚀 Olá, me chamo rooster Sou um estudante de tecnologia focado em segurança e programação.
+👋 Olá, me chamo **Rooster**! Sou um estudante de tecnologia completamente focado em segurança da informação e programação.
 
-### 💻 Tech Stack:
+🎯 **Objetivo de Carreira:** Futuro **Red Teamer** / **Pentester Professional**.
+
+---
+
+## 🚀 Atualmente Focado Em:
+
+* 📚 Estudante de Pentesting na **Desec Security**.
+* 💻 Desenvolvimento de exploits e ferramentas em **Python**, **C** e **Bash**.
+* 🌐 Estudos práticos de redes, web hacking e segurança ofensiva.
+
+---
+
+### 💻 OS:
+
+![Kali Linux](https://img.shields.io/badge/KALI-000000?style=for-the-badge&logo=kali-linux&logoColor=00F0FF)
+
+### 🛠️ Tech Stack:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 💻 OS:
-
-![Kali Linux](https://img.shields.io/badge/KALI-000000?style=for-the-badge&logo=shields.io&logoColor=white)
 
 ### 📊 GitHub Stats:
 
