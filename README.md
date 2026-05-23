@@ -8,9 +8,9 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 💻 O.S:
+### 💻 OS:
 
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C93?style=for-the-badge&logo=linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/KALI-000000?style=flat-square&logo=kali-linux&logoColor=white)
 
 ### 📊 GitHub Stats:
 
